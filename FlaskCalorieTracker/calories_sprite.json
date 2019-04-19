@@ -1,0 +1,1395 @@
+{
+    "products": {
+        "49000037111": {
+            "product_id": 84750,
+            "name": "Sprite zero",
+            "manufacturer": "",
+            "upc": "0049000037111",
+            "details": {
+                "name": "Sprite zero",
+                "barcode": "0049000037111",
+                "upc": "0049000037111",
+                "brand": "",
+                "ingredients": "",
+                "package_size": "100g",
+                "serving_size": "",
+                "countries": {
+                    "france": "France"
+                },
+                "country_details": {
+                    "english_speaking": 0,
+                    "non_english_speaking": 1
+                },
+                "has_english_ingredients": 0,
+                "images": {
+                    "front": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=004/900/003/7111/front_fr.4.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=004/900/003/7111/front_fr.4.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=004/900/003/7111/front_fr.4.400.jpg"
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "keywords": {
+                    "sprite": "Sprite",
+                    "zero": "Zero"
+                },
+                "lifestyle_flagged_ingredients": [],
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegan diet as ingredients are missing."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegetarian diet as ingredients are missing."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Gluten Free diet as ingredients are missing."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 1,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 4,
+                        "per_serving": 0
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 1,
+                        "per_serving": 0
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 1,
+                        "per_serving": 0
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 3.5,
+                        "per_serving": 0
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 1,
+                        "per_serving": 0
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 1.378,
+                        "per_serving": 0
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 1,
+                        "per_serving": 0
+                    }
+                },
+                "allergens": [],
+                "brands": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "ingredient_tags": [],
+                "mineral_tags": [],
+                "traces_tags": [],
+                "vitamin_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=84750"
+        },
+        "49000054552": {
+            "product_id": 84768,
+            "name": "Sprite Lemon",
+            "manufacturer": "",
+            "upc": "0049000054552",
+            "details": {
+                "name": "Sprite Lemon",
+                "barcode": "0049000054552",
+                "upc": "0049000054552",
+                "brand": "",
+                "ingredients": "",
+                "package_size": "100g",
+                "serving_size": "1 bottle",
+                "countries": {
+                    "france": "France",
+                    "united-states": "United States"
+                },
+                "has_english_ingredients": 1,
+                "country_details": {
+                    "english_speaking": 1,
+                    "non_english_speaking": 1
+                },
+                "images": {
+                    "front": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=004/900/005/4552/front_en.6.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=004/900/005/4552/front_en.6.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=004/900/005/4552/front_en.6.400.jpg"
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "keywords": {
+                    "lemon": "Lemon",
+                    "soda": "Soda",
+                    "sprite": "Sprite"
+                },
+                "lifestyle_flagged_ingredients": [],
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegan diet as ingredients are missing."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegetarian diet as ingredients are missing."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Gluten Free diet as ingredients are missing."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 27,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 418,
+                        "per_serving": 0
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0.114,
+                        "per_serving": 0
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 0.045,
+                        "per_serving": 0
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 27,
+                        "per_serving": 0
+                    }
+                },
+                "allergens": [],
+                "brands": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "ingredient_tags": [],
+                "mineral_tags": [],
+                "traces_tags": [],
+                "vitamin_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=84768"
+        },
+        "49000072235": {
+            "product_id": 84804,
+            "name": "Sprite cherry zero",
+            "manufacturer": "",
+            "upc": "0049000072235",
+            "details": {
+                "name": "Sprite cherry zero",
+                "barcode": "0049000072235",
+                "upc": "0049000072235",
+                "brand": "",
+                "ingredients": "",
+                "package_size": "100g",
+                "serving_size": "",
+                "countries": {
+                    "united-states": "United States"
+                },
+                "has_english_ingredients": 1,
+                "country_details": {
+                    "english_speaking": 1,
+                    "non_english_speaking": 0
+                },
+                "images": {
+                    "front": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=004/900/007/2235/front_en.3.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=004/900/007/2235/front_en.3.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=004/900/007/2235/front_en.3.400.jpg"
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "keywords": {
+                    "cherry": "Cherry",
+                    "sprite": "Sprite",
+                    "zero": "Zero"
+                },
+                "lifestyle_flagged_ingredients": [],
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegan diet as ingredients are missing."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegetarian diet as ingredients are missing."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Gluten Free diet as ingredients are missing."
+                    }
+                },
+                "allergens": [],
+                "brands": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "ingredient_tags": [],
+                "mineral_tags": [],
+                "traces_tags": [],
+                "nutrition_label": [],
+                "vitamin_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=84804"
+        },
+        "88009190632": {
+            "product_id": 107802,
+            "name": "Sprite",
+            "manufacturer": "Cocacola",
+            "upc": "0088009190632",
+            "details": {
+                "name": "Sprite",
+                "barcode": "0088009190632",
+                "upc": "0088009190632",
+                "brand": "Cocacola",
+                "ingredients": "INGR\u00c9DIENTS : EAU GAZ\u00c9IFI\u00c9E, SUCRE, ACIDIFIANTS (E330, E331), AR\u00d4ME, CONSERVATEUR (E211).",
+                "package_size": "100g",
+                "serving_size": "",
+                "brands": {
+                    "cocacola": "Cocacola"
+                },
+                "countries": {
+                    "france": "France"
+                },
+                "country_details": {
+                    "english_speaking": 0,
+                    "non_english_speaking": 1
+                },
+                "has_english_ingredients": 0,
+                "images": {
+                    "front": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=008/800/919/0632/front_fr.10.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=008/800/919/0632/front_fr.10.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=008/800/919/0632/front_fr.10.400.jpg"
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "ingredient_tags": {
+                    "acidifiants": "Acidifiants",
+                    "arome": "Arome",
+                    "conservateur": "Conservateur",
+                    "e211": "E211",
+                    "e330": "E330",
+                    "e331": "E331",
+                    "eau-gazeifiee": "Eau Gazeifiee",
+                    "ingredients": "Ingredients",
+                    "sucre": "Sucre"
+                },
+                "keywords": {
+                    "beverage": "Beverage",
+                    "cocacola": "Cocacola",
+                    "sprite": "Sprite"
+                },
+                "lifestyle_flagged_ingredients": [],
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "This product appears to be sold in more non-English speaking countries. The Vegan compatibility grade may be inaccurate as a result."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "This product appears to be sold in more non-English speaking countries. The Vegetarian compatibility grade may be inaccurate as a result."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "This product appears to be sold in more non-English speaking countries. The Gluten Free compatibility grade may be inaccurate as a result."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 10.2,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 176,
+                        "per_serving": 0
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "fiber": {
+                        "name": "Fiber",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "nova-group": {
+                        "name": "Nova Group",
+                        "measurement": "",
+                        "per_100g": 4,
+                        "per_serving": 4
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 10.2,
+                        "per_serving": 0
+                    }
+                },
+                "allergens": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "mineral_tags": [],
+                "traces_tags": [],
+                "vitamin_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=107802"
+        },
+        "611247311684": {
+            "product_id": 126326,
+            "name": "Kold, Sprite Beverage Mix, Lemon-Lime",
+            "manufacturer": "Keurig",
+            "upc": "0611247311684",
+            "details": {
+                "name": "Kold, Sprite Beverage Mix, Lemon-Lime",
+                "barcode": "0611247311684",
+                "upc": "0611247311684",
+                "brand": "Keurig",
+                "ingredients": "High fructose corn syrup, water, carbon dioxide (for carbonated), citric acid, natural flavors, sodium citrate, sodium benzoate (to protect taste).",
+                "package_size": "100g",
+                "serving_size": "50.9 g (1 KOLD POD (8 FL OZ PREPARED))",
+                "brands": {
+                    "keurig": "Keurig"
+                },
+                "countries": {
+                    "united-states": "United States"
+                },
+                "has_english_ingredients": 1,
+                "country_details": {
+                    "english_speaking": 1,
+                    "non_english_speaking": 0
+                },
+                "images": {
+                    "front": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "ingredient_tags": {
+                    "carbon-dioxide": "Carbon Dioxide",
+                    "citric-acid": "Citric Acid",
+                    "for-carbonated": "For Carbonated",
+                    "high-fructose-corn-syrup": "High Fructose Corn Syrup",
+                    "natural-flavors": "Natural Flavors",
+                    "sodium-benzoate": "Sodium Benzoate",
+                    "sodium-citrate": "Sodium Citrate",
+                    "to-protect-taste": "To Protect Taste",
+                    "water": "Water"
+                },
+                "keywords": {
+                    "beverage": "Beverage",
+                    "keurig": "Keurig",
+                    "kold": "Kold",
+                    "lemon-lime": "Lemon Lime",
+                    "mix": "Mix",
+                    "sprite": "Sprite"
+                },
+                "lifestyle_flagged_ingredients": {
+                    "25-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 25,
+                        "name": "Carbon",
+                        "description": "Likely derived from animals unless otherwise noted.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "33-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 33,
+                        "name": "Citric",
+                        "description": "Emulsifier - May contain animal fat as it is derived from Glycerin/Glycerol.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "257-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 257,
+                        "name": "Natural",
+                        "description": "Ingredients are not synthetic or artificial, but extracted directly from plants or animal products",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "554-0": {
+                        "lifestyle_id": 2,
+                        "lifestyle_name": "Vegetarian",
+                        "id": 554,
+                        "name": "Carbon",
+                        "description": "Coloring derived from animals unless otherwise described as plant based.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "555-0": {
+                        "lifestyle_id": 2,
+                        "lifestyle_name": "Vegetarian",
+                        "id": 555,
+                        "name": "Citric",
+                        "description": "Emulsifier - May contain animal fat as it is derived from Glycerin/Glycerol.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "568-0": {
+                        "lifestyle_id": 2,
+                        "lifestyle_name": "Vegetarian",
+                        "id": 568,
+                        "name": "Natural",
+                        "description": "Ingredients are not synthetic or artificial, but extracted directly from plants or animal products",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    }
+                },
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegan diets."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegetarian diets."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "Yes",
+                        "compatibility": 2,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We are confident that this product is compatible with Gluten Free diets."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 53.05,
+                        "per_serving": 27
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 820,
+                        "per_serving": 417
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0.124,
+                        "per_serving": 0.063
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "mg",
+                        "per_100g": 49,
+                        "per_serving": 24.9
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 53.05,
+                        "per_serving": 27
+                    }
+                },
+                "allergens": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "mineral_tags": [],
+                "traces_tags": [],
+                "vitamin_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=126326"
+        },
+        "1409060244468": {
+            "product_id": 184995,
+            "name": "Sprite",
+            "manufacturer": "",
+            "upc": "1409060244468",
+            "details": {
+                "name": "Sprite",
+                "barcode": "1409060244468",
+                "upc": "1409060244468",
+                "brand": "",
+                "ingredients": "",
+                "package_size": "100g",
+                "serving_size": "",
+                "countries": {
+                    "france": "France"
+                },
+                "country_details": {
+                    "english_speaking": 0,
+                    "non_english_speaking": 1
+                },
+                "has_english_ingredients": 0,
+                "images": {
+                    "front": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=140/906/024/4468/front_fr.4.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=140/906/024/4468/front_fr.4.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=140/906/024/4468/front_fr.4.400.jpg"
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "keywords": {
+                    "sprite": "Sprite"
+                },
+                "lifestyle_flagged_ingredients": [],
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegan diet as ingredients are missing."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegetarian diet as ingredients are missing."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Gluten Free diet as ingredients are missing."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 2,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 159,
+                        "per_serving": 0
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 2,
+                        "per_serving": 0
+                    }
+                },
+                "allergens": [],
+                "brands": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "ingredient_tags": [],
+                "mineral_tags": [],
+                "traces_tags": [],
+                "vitamin_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=184995"
+        },
+        "3174780006235": {
+            "product_id": 225537,
+            "name": "Sprite",
+            "manufacturer": "Sprite",
+            "upc": "3174780006235",
+            "details": {
+                "name": "Sprite",
+                "barcode": "3174780006235",
+                "upc": "3174780006235",
+                "brand": "Sprite",
+                "ingredients": "eau gaz\u00e9ifi\u00e9e ; sucre ; acidifiants : acide citrique, citrate de sodium ; ar\u00f4mes naturels de citron citron vert ; \u00e9dulcorant . glycosides de st\u00e9vicl A consommer de pr\u00e9f\u00e9rence avant le : voir bouchon ou bouteille. EMB European Partners France, 9 chemin de Bretagne, CS 80050, 92784 Issy-les-Moulineaux, Cedex 9.Conditionn\u00e9 avec l&#039;autorisation de The Coca Cola Conserver\u00e0 l&#039;abri du soleil, dans un endroit temp\u00e9r\u00e9, sec et sans odeur. Ne pas agiter.",
+                "package_size": "100g",
+                "serving_size": "250 ml",
+                "brands": {
+                    "sprite": "Sprite"
+                },
+                "countries": {
+                    "france": "France"
+                },
+                "country_details": {
+                    "english_speaking": 0,
+                    "non_english_speaking": 1
+                },
+                "has_english_ingredients": 0,
+                "images": {
+                    "front": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=317/478/000/6235/front_fr.5.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=317/478/000/6235/front_fr.5.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=317/478/000/6235/front_fr.5.400.jpg"
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=317/478/000/6235/ingredients_fr.17.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=317/478/000/6235/ingredients_fr.17.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=317/478/000/6235/ingredients_fr.17.400.jpg"
+                    }
+                },
+                "ingredient_tags": {
+                    "9-chemin-de-bretagne": "9 Chemin De Bretagne",
+                    "92784-issy-les-moulineaux": "92784 Issy Les Moulineaux",
+                    "acide-citrique": "Acide Citrique",
+                    "acidifiants": "Acidifiants",
+                    "aromes-naturels-de-citron-citron-vert": "Aromes Naturels De Citron Citron Vert",
+                    "cedex-9-conditionne-avec-l-autorisation-de-the-coca-cola-conservera-l-abri-du-soleil": "Cedex 9 Conditionne Avec L Autorisation De The Coca Cola Conservera L Abri Du Soleil",
+                    "citrate-de-sodium": "Citrate De Sodium",
+                    "cs-80050": "Cs 80050",
+                    "dans-un-endroit-tempere": "Dans Un Endroit Tempere",
+                    "eau-gazeifiee": "Eau Gazeifiee",
+                    "edulcorant": "Edulcorant",
+                    "emb-european-partners-france": "Emb European Partners France",
+                    "glycosides-de-stevicl-a-consommer-de-preference-avant-le": "Glycosides De Stevicl A Consommer De Preference Avant Le",
+                    "ne-pas-agiter": "Ne Pas Agiter",
+                    "sec-et-sans-odeur": "Sec Et Sans Odeur",
+                    "sucre": "Sucre",
+                    "voir-bouchon-ou-bouteille": "Voir Bouchon Ou Bouteille"
+                },
+                "keywords": {
+                    "arome": "Arome",
+                    "artificially-sweetened-beverage": "Artificially Sweetened Beverage",
+                    "aux": "Aux",
+                    "beverage": "Beverage",
+                    "boisson": "Boisson",
+                    "carbonated-drink": "Carbonated Drink",
+                    "citron-citron": "Citron Citron",
+                    "de": "De",
+                    "edulcorant": "Edulcorant",
+                    "et": "Et",
+                    "naturel": "Naturel",
+                    "rafraichissante": "Rafraichissante",
+                    "soda": "Soda",
+                    "sprite": "Sprite",
+                    "sugared-beverage": "Sugared Beverage",
+                    "vert": "Vert"
+                },
+                "lifestyle_flagged_ingredients": [],
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "This product appears to be sold in more non-English speaking countries. The Vegan compatibility grade may be inaccurate as a result."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "This product appears to be sold in more non-English speaking countries. The Vegetarian compatibility grade may be inaccurate as a result."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "This product appears to be sold in more non-English speaking countries. The Gluten Free compatibility grade may be inaccurate as a result."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 6.6,
+                        "per_serving": 16.5
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 117,
+                        "per_serving": 292
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "fiber": {
+                        "name": "Fiber",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "nova-group": {
+                        "name": "Nova Group",
+                        "measurement": "",
+                        "per_100g": 4,
+                        "per_serving": 4
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 6.6,
+                        "per_serving": 16.5
+                    }
+                },
+                "allergens": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "mineral_tags": [],
+                "traces_tags": [],
+                "vitamin_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=225537"
+        },
+        "3292090000061": {
+            "product_id": 285263,
+            "name": "Sprite",
+            "manufacturer": "Coca-Cola",
+            "upc": "3292090000061",
+            "details": {
+                "name": "Sprite",
+                "barcode": "3292090000061",
+                "upc": "3292090000061",
+                "brand": "Coca-Cola",
+                "ingredients": "BOISSON RAFRAICHISSANTE AUX AROMES NATURELS DE CITRON-CITRON VERT, AVEC SUCRE ET EDULCORANT INGREDIENTS: EAU GAZEIFIEE SUCRE, ACIDIFIANTS: ACIDE CITRIQUE, CITRATE DE SODIUM",
+                "package_size": "100g",
+                "serving_size": "50g",
+                "brands": {
+                    "coca-cola": "Coca Cola"
+                },
+                "countries": {
+                    "france": "France"
+                },
+                "country_details": {
+                    "english_speaking": 0,
+                    "non_english_speaking": 1
+                },
+                "has_english_ingredients": 0,
+                "images": {
+                    "front": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=329/209/000/0061/front_fr.4.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=329/209/000/0061/front_fr.4.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=329/209/000/0061/front_fr.4.400.jpg"
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=329/209/000/0061/ingredients_fr.7.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=329/209/000/0061/ingredients_fr.7.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=329/209/000/0061/ingredients_fr.7.400.jpg"
+                    }
+                },
+                "ingredient_tags": {
+                    "acide-citrique": "Acide Citrique",
+                    "acidifiants": "Acidifiants",
+                    "avec-sucre-et-edulcorant": "Avec Sucre Et Edulcorant",
+                    "boisson-rafraichissante-aux-aromes-naturels-de-citron-citron-vert": "Boisson Rafraichissante Aux Aromes Naturels De Citron Citron Vert",
+                    "citrate-de-sodium": "Citrate De Sodium",
+                    "eau-gazeifiee-sucre": "Eau Gazeifiee Sucre",
+                    "ingredients": "Ingredients"
+                },
+                "keywords": {
+                    "coca-cola": "Coca Cola",
+                    "sprite": "Sprite"
+                },
+                "lifestyle_flagged_ingredients": [],
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "This product appears to be sold in more non-English speaking countries. The Vegan compatibility grade may be inaccurate as a result."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "This product appears to be sold in more non-English speaking countries. The Vegetarian compatibility grade may be inaccurate as a result."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "This product appears to be sold in more non-English speaking countries. The Gluten Free compatibility grade may be inaccurate as a result."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 6.6,
+                        "per_serving": 3.3
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 117,
+                        "per_serving": 58.5
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 6.6,
+                        "per_serving": 3.3
+                    }
+                },
+                "allergens": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "mineral_tags": [],
+                "traces_tags": [],
+                "vitamin_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=285263"
+        },
+        "3292090141481": {
+            "product_id": 285295,
+            "name": "Sprite-lemon-lime-330ml-martinique (french)",
+            "manufacturer": "",
+            "upc": "3292090141481",
+            "details": {
+                "name": "Sprite-lemon-lime-330ml-martinique (french)",
+                "barcode": "3292090141481",
+                "upc": "3292090141481",
+                "brand": "",
+                "ingredients": "",
+                "package_size": "100g",
+                "serving_size": "",
+                "countries": {
+                    "france": "France"
+                },
+                "country_details": {
+                    "english_speaking": 0,
+                    "non_english_speaking": 1
+                },
+                "has_english_ingredients": 0,
+                "images": {
+                    "front": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=329/209/014/1481/ingredients_fr.4.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=329/209/014/1481/ingredients_fr.4.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=329/209/014/1481/ingredients_fr.4.400.jpg"
+                    }
+                },
+                "keywords": {
+                    "french": "French",
+                    "sprite-lemon-lime-330ml-martinique": "Sprite Lemon Lime 330ml Martinique"
+                },
+                "lifestyle_flagged_ingredients": [],
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegan diet as ingredients are missing."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegetarian diet as ingredients are missing."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Gluten Free diet as ingredients are missing."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 6.6,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 113,
+                        "per_serving": 0
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 6.6,
+                        "per_serving": 0
+                    }
+                },
+                "allergens": [],
+                "brands": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "ingredient_tags": [],
+                "mineral_tags": [],
+                "traces_tags": [],
+                "vitamin_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=285295"
+        },
+        "3348630008018": {
+            "product_id": 298274,
+            "name": "Sprite",
+            "manufacturer": "",
+            "upc": "3348630008018",
+            "details": {
+                "name": "Sprite",
+                "barcode": "3348630008018",
+                "upc": "3348630008018",
+                "brand": "",
+                "ingredients": "",
+                "package_size": "100g",
+                "serving_size": "",
+                "countries": {
+                    "france": "France"
+                },
+                "country_details": {
+                    "english_speaking": 0,
+                    "non_english_speaking": 1
+                },
+                "has_english_ingredients": 0,
+                "images": {
+                    "front": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "https://chompthis.com/api/assets/images/product?i=334/863/000/8018/ingredients_fr.4.200.jpg",
+                        "thumb": "https://chompthis.com/api/assets/images/product?i=334/863/000/8018/ingredients_fr.4.100.jpg",
+                        "display": "https://chompthis.com/api/assets/images/product?i=334/863/000/8018/ingredients_fr.4.400.jpg"
+                    }
+                },
+                "keywords": {
+                    "sprite": "Sprite"
+                },
+                "lifestyle_flagged_ingredients": [],
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegan diet as ingredients are missing."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Vegetarian diet as ingredients are missing."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": false,
+                        "grade_confidence_desc": "We aren't able to check for compatibility with Gluten Free diet as ingredients are missing."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 10.2,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 176,
+                        "per_serving": 0
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 10.2,
+                        "per_serving": 0
+                    }
+                },
+                "allergens": [],
+                "brands": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "ingredient_tags": [],
+                "mineral_tags": [],
+                "traces_tags": [],
+                "vitamin_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=298274"
+        }
+    },
+    "chomp": {
+        "request": {
+            "product_name": "sprite"
+        },
+        "response": {
+            "products_found": 10
+        },
+        "pagination": {
+            "current_page_no": 1,
+            "current_page_endpoint": "https://chompthis.com/api/product-search.php?token=1mMqa5WRM1H10cSo8&name=sprite&page=1",
+            "next_page_no": 2,
+            "next_page_endpoint": "https://chompthis.com/api/product-search.php?token=1mMqa5WRM1H10cSo8&name=sprite&page=2"
+        },
+        "subscription": {
+            "token": "1mMqa5WRM1H10cSo8",
+            "plan": "Economy",
+            "quota": {
+                "total": 1500,
+                "used": 133,
+                "remaining": 1367
+            }
+        }
+    }
+}

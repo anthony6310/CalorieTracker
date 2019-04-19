@@ -1,0 +1,1449 @@
+{
+    "products": {
+        "17109321127": {
+            "product_id": 14510,
+            "name": "Chocolate Covered Oreos",
+            "manufacturer": "Sweet Shop Candies  Inc.",
+            "upc": "0017109321127",
+            "details": {
+                "name": "Chocolate Covered Oreos",
+                "barcode": "0017109321127",
+                "upc": "0017109321127",
+                "brand": "Sweet Shop Candies  Inc.",
+                "ingredients": "Oreo sugar, enriched flour [wheat flour, niacin, reduced iron, thiamine mononitrate (vitamin b1), riboflavin (vitamin b2), folic acid], high oleic canola oil and/or palm oil and/or canola oil, cocoa (processed with alkali), high fructose corn syrup, bakin",
+                "package_size": "100g",
+                "serving_size": "28 g (1 PIECE)",
+                "brands": {
+                    "sweet-shop-candies-inc": "Sweet Shop Candies Inc"
+                },
+                "countries": {
+                    "united-states": "United States"
+                },
+                "has_english_ingredients": 1,
+                "country_details": {
+                    "english_speaking": 1,
+                    "non_english_speaking": 0
+                },
+                "images": {
+                    "front": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "ingredient_tags": {
+                    "bakin": "Bakin",
+                    "cocoa": "Cocoa",
+                    "enriched-flour": "Enriched Flour",
+                    "folic-acid": "Folic Acid",
+                    "high-fructose-corn-syrup": "High Fructose Corn Syrup",
+                    "high-oleic-canola-oil-and": "High Oleic Canola Oil And",
+                    "niacin": "Niacin",
+                    "or-canola-oil": "Or Canola Oil",
+                    "or-palm-oil-and": "Or Palm Oil And",
+                    "oreo-sugar": "Oreo Sugar",
+                    "processed-with-alkali": "Processed With Alkali",
+                    "reduced-iron": "Reduced Iron",
+                    "riboflavin": "Riboflavin",
+                    "thiamine-mononitrate": "Thiamine Mononitrate",
+                    "vitamin-b1": "Vitamin B1",
+                    "vitamin-b2": "Vitamin B2",
+                    "wheat-flour": "Wheat Flour"
+                },
+                "keywords": {
+                    "candie": "Candie",
+                    "chocolate": "Chocolate",
+                    "covered": "Covered",
+                    "inc": "Inc",
+                    "oreo": "Oreo",
+                    "shop": "Shop",
+                    "sweet": "Sweet"
+                },
+                "lifestyle_flagged_ingredients": {
+                    "595-0": {
+                        "lifestyle_id": 3,
+                        "lifestyle_name": "Gluten Free",
+                        "id": 595,
+                        "name": "Wheat",
+                        "description": "Wheat includes gluten. Check the ingredients if gluten-free is not on the label.",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "compatibility_description": "Banned - Not acceptable for diet/lifestyle."
+                    },
+                    "130-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 130,
+                        "name": "Riboflavin",
+                        "description": "May contain milk.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "163-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 163,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "584-0": {
+                        "lifestyle_id": 2,
+                        "lifestyle_name": "Vegetarian",
+                        "id": 584,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    }
+                },
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegan diets."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegetarian diets."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "This product doesn't appear to be compatible with Gluten Free diets."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 67.86,
+                        "per_serving": 19
+                    },
+                    "cholesterol": {
+                        "name": "Cholesterol",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 1941,
+                        "per_serving": 543
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 25,
+                        "per_serving": 7
+                    },
+                    "fiber": {
+                        "name": "Fiber",
+                        "measurement": "g",
+                        "per_100g": 3.6,
+                        "per_serving": 1.01
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 3.57,
+                        "per_serving": 1
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0.81534,
+                        "per_serving": 0.228
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 7.14,
+                        "per_serving": 2
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 0.321,
+                        "per_serving": 0.0899
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 60.71,
+                        "per_serving": 17
+                    },
+                    "trans-fat": {
+                        "name": "Trans Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    }
+                },
+                "vitamin_tags": {
+                    "folic-acid": "Folic Acid",
+                    "niacin": "Niacin",
+                    "riboflavin": "Riboflavin",
+                    "thiamin": "Thiamin"
+                },
+                "allergens": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "mineral_tags": [],
+                "traces_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=14510"
+        },
+        "17109321868": {
+            "product_id": 14514,
+            "name": "Chocolate Covered Oreos",
+            "manufacturer": "Sweet Shop Usa,  Sweet Shop Candies  Inc.",
+            "upc": "0017109321868",
+            "details": {
+                "name": "Chocolate Covered Oreos",
+                "barcode": "0017109321868",
+                "upc": "0017109321868",
+                "brand": "Sweet Shop Usa,  Sweet Shop Candies  Inc.",
+                "ingredients": "Oreo sugar, enriched flour [wheat flour, niacin, reduced iron, thiamine mononitrate (vitamin b1), riboflavin (vitamin b2), folic acid], high oleic canola oil and/or palm oil and/or canola oil, cocoa (processed with alkali), high fructose corn syrup, bakin",
+                "package_size": "100g",
+                "serving_size": "28 g (1 PIECE)",
+                "brands": {
+                    "sweet-shop-candies-inc": "Sweet Shop Candies Inc",
+                    "sweet-shop-usa": "Sweet Shop Usa"
+                },
+                "countries": {
+                    "united-states": "United States"
+                },
+                "has_english_ingredients": 1,
+                "country_details": {
+                    "english_speaking": 1,
+                    "non_english_speaking": 0
+                },
+                "images": {
+                    "front": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "ingredient_tags": {
+                    "bakin": "Bakin",
+                    "cocoa": "Cocoa",
+                    "enriched-flour": "Enriched Flour",
+                    "folic-acid": "Folic Acid",
+                    "high-fructose-corn-syrup": "High Fructose Corn Syrup",
+                    "high-oleic-canola-oil-and": "High Oleic Canola Oil And",
+                    "niacin": "Niacin",
+                    "or-canola-oil": "Or Canola Oil",
+                    "or-palm-oil-and": "Or Palm Oil And",
+                    "oreo-sugar": "Oreo Sugar",
+                    "processed-with-alkali": "Processed With Alkali",
+                    "reduced-iron": "Reduced Iron",
+                    "riboflavin": "Riboflavin",
+                    "thiamine-mononitrate": "Thiamine Mononitrate",
+                    "vitamin-b1": "Vitamin B1",
+                    "vitamin-b2": "Vitamin B2",
+                    "wheat-flour": "Wheat Flour"
+                },
+                "keywords": {
+                    "candie": "Candie",
+                    "chocolate": "Chocolate",
+                    "covered": "Covered",
+                    "inc": "Inc",
+                    "oreo": "Oreo",
+                    "shop": "Shop",
+                    "sweet": "Sweet",
+                    "usa": "Usa"
+                },
+                "lifestyle_flagged_ingredients": {
+                    "595-0": {
+                        "lifestyle_id": 3,
+                        "lifestyle_name": "Gluten Free",
+                        "id": 595,
+                        "name": "Wheat",
+                        "description": "Wheat includes gluten. Check the ingredients if gluten-free is not on the label.",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "compatibility_description": "Banned - Not acceptable for diet/lifestyle."
+                    },
+                    "130-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 130,
+                        "name": "Riboflavin",
+                        "description": "May contain milk.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "163-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 163,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "584-0": {
+                        "lifestyle_id": 2,
+                        "lifestyle_name": "Vegetarian",
+                        "id": 584,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    }
+                },
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegan diets."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegetarian diets."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "This product doesn't appear to be compatible with Gluten Free diets."
+                    }
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 67.86,
+                        "per_serving": 19
+                    },
+                    "cholesterol": {
+                        "name": "Cholesterol",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 1941,
+                        "per_serving": 543
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 25,
+                        "per_serving": 7
+                    },
+                    "fiber": {
+                        "name": "Fiber",
+                        "measurement": "g",
+                        "per_100g": 3.6,
+                        "per_serving": 1.01
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 3.57,
+                        "per_serving": 1
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0.81534,
+                        "per_serving": 0.228
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 7.14,
+                        "per_serving": 2
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 0.321,
+                        "per_serving": 0.0899
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 60.71,
+                        "per_serving": 17
+                    },
+                    "trans-fat": {
+                        "name": "Trans Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    }
+                },
+                "vitamin_tags": {
+                    "folic-acid": "Folic Acid",
+                    "niacin": "Niacin",
+                    "riboflavin": "Riboflavin",
+                    "thiamin": "Thiamin"
+                },
+                "allergens": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "mineral_tags": [],
+                "traces_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=14514"
+        },
+        "17109330884": {
+            "product_id": 14540,
+            "name": "Chocolate Covered Oreos",
+            "manufacturer": "Sweet Shop Usa,  Sweet Shop Candies  Inc.",
+            "upc": "0017109330884",
+            "details": {
+                "name": "Chocolate Covered Oreos",
+                "barcode": "0017109330884",
+                "upc": "0017109330884",
+                "brand": "Sweet Shop Usa,  Sweet Shop Candies  Inc.",
+                "ingredients": "Oreo (sugar, enriched flour(wheat flour, niacin, reduced iron, thiamine mononitrate [vitamin b1, riboflavin [vitamin b2], folic acid), high oleic canola oil and/or palm oil and/or canola oil and/or soybean oil, cocoa (processed with alkai), high fructose",
+                "package_size": "100g",
+                "serving_size": "28 g (1 PIECE)",
+                "brands": {
+                    "sweet-shop-candies-inc": "Sweet Shop Candies Inc",
+                    "sweet-shop-usa": "Sweet Shop Usa"
+                },
+                "countries": {
+                    "united-states": "United States"
+                },
+                "has_english_ingredients": 1,
+                "country_details": {
+                    "english_speaking": 1,
+                    "non_english_speaking": 0
+                },
+                "images": {
+                    "front": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "ingredient_tags": {
+                    "cocoa": "Cocoa",
+                    "enriched-flour": "Enriched Flour",
+                    "folic-acid": "Folic Acid",
+                    "high-fructose": "High Fructose",
+                    "high-oleic-canola-oil-and": "High Oleic Canola Oil And",
+                    "niacin": "Niacin",
+                    "or-canola-oil-and": "Or Canola Oil And",
+                    "or-palm-oil-and": "Or Palm Oil And",
+                    "or-soybean-oil": "Or Soybean Oil",
+                    "oreo": "Oreo",
+                    "processed-with-alkai": "Processed With Alkai",
+                    "reduced-iron": "Reduced Iron",
+                    "riboflavin": "Riboflavin",
+                    "sugar": "Sugar",
+                    "thiamine-mononitrate": "Thiamine Mononitrate",
+                    "vitamin-b1": "Vitamin B1",
+                    "vitamin-b2": "Vitamin B2",
+                    "wheat-flour": "Wheat Flour"
+                },
+                "keywords": {
+                    "candie": "Candie",
+                    "chocolate": "Chocolate",
+                    "covered": "Covered",
+                    "inc": "Inc",
+                    "oreo": "Oreo",
+                    "shop": "Shop",
+                    "sweet": "Sweet",
+                    "usa": "Usa"
+                },
+                "lifestyle_flagged_ingredients": {
+                    "595-0": {
+                        "lifestyle_id": 3,
+                        "lifestyle_name": "Gluten Free",
+                        "id": 595,
+                        "name": "Wheat",
+                        "description": "Wheat includes gluten. Check the ingredients if gluten-free is not on the label.",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "compatibility_description": "Banned - Not acceptable for diet/lifestyle."
+                    },
+                    "130-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 130,
+                        "name": "Riboflavin",
+                        "description": "May contain milk.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "163-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 163,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "584-0": {
+                        "lifestyle_id": 2,
+                        "lifestyle_name": "Vegetarian",
+                        "id": 584,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    }
+                },
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegan diets."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegetarian diets."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "This product doesn't appear to be compatible with Gluten Free diets."
+                    }
+                },
+                "nutrition_label": {
+                    "calcium": {
+                        "name": "Calcium",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 71.43,
+                        "per_serving": 20
+                    },
+                    "cholesterol": {
+                        "name": "Cholesterol",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 2092,
+                        "per_serving": 586
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 25,
+                        "per_serving": 7
+                    },
+                    "fiber": {
+                        "name": "Fiber",
+                        "measurement": "g",
+                        "per_100g": 3.6,
+                        "per_serving": 1.01
+                    },
+                    "iron": {
+                        "name": "Iron",
+                        "measurement": "mg",
+                        "per_100g": 6.43,
+                        "per_serving": 1.8
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0.58928,
+                        "per_serving": 0.165
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 12.5,
+                        "per_serving": 3.5
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 0.232,
+                        "per_serving": 0.065
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 53.57,
+                        "per_serving": 15
+                    },
+                    "trans-fat": {
+                        "name": "Trans Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "vitamin-a": {
+                        "name": "Vitamin A",
+                        "measurement": "IU",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "vitamin-c": {
+                        "name": "Vitamin C",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    }
+                },
+                "vitamin_tags": {
+                    "folic-acid": "Folic Acid",
+                    "niacin": "Niacin",
+                    "riboflavin": "Riboflavin",
+                    "thiamin": "Thiamin"
+                },
+                "allergens": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "mineral_tags": [],
+                "traces_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=14540"
+        },
+        "17109330891": {
+            "product_id": 14541,
+            "name": "Chocolate Covered Oreos",
+            "manufacturer": "Sweet Shop Usa",
+            "upc": "017109330891",
+            "details": {
+                "name": "Chocolate Covered Oreos",
+                "barcode": "0017109330891",
+                "upc": "017109330891",
+                "brand": "Sweet Shop Usa",
+                "ingredients": "Oreo sugar, enriched flour [<span class=\"allergen\">wheat flour</span>, niacin, reduced iron, thiamine mononitrate (vitamin b1), riboflavin (vitamin b2), folic acid], high oleic canola oil and/or palm oil and/or canola oil, cocoa (processed with alkali), high fructose corn syrup, bakin",
+                "package_size": "100g",
+                "serving_size": "28 g (1 PIECE)",
+                "allergens": {
+                    "gluten": "Gluten"
+                },
+                "brands": {
+                    "sweet-shop-usa": "Sweet Shop Usa"
+                },
+                "countries": {
+                    "united-states": "United States"
+                },
+                "has_english_ingredients": 1,
+                "country_details": {
+                    "english_speaking": 1,
+                    "non_english_speaking": 0
+                },
+                "images": {
+                    "front": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "ingredient_tags": {
+                    "bakin": "Bakin",
+                    "cocoa": "Cocoa",
+                    "enriched-flour": "Enriched Flour",
+                    "folic-acid": "Folic Acid",
+                    "high-fructose-corn-syrup": "High Fructose Corn Syrup",
+                    "high-oleic-canola-oil-and": "High Oleic Canola Oil And",
+                    "niacin": "Niacin",
+                    "or-canola-oil": "Or Canola Oil",
+                    "or-palm-oil-and": "Or Palm Oil And",
+                    "oreo-sugar": "Oreo Sugar",
+                    "processed-with-alkali": "Processed With Alkali",
+                    "reduced-iron": "Reduced Iron",
+                    "riboflavin": "Riboflavin",
+                    "thiamine-mononitrate": "Thiamine Mononitrate",
+                    "vitamin-b1": "Vitamin B1",
+                    "vitamin-b2": "Vitamin B2",
+                    "wheat-flour": "Wheat Flour"
+                },
+                "keywords": {
+                    "chocolate": "Chocolate",
+                    "covered": "Covered",
+                    "oreo": "Oreo",
+                    "shop": "Shop",
+                    "sweet": "Sweet",
+                    "usa": "Usa"
+                },
+                "lifestyle_flagged_ingredients": {
+                    "713-0": {
+                        "lifestyle_id": 3,
+                        "lifestyle_name": "Gluten Free",
+                        "id": 713,
+                        "name": "Gluten",
+                        "description": "Gluten is a general name for the proteins found in different forms of wheat.",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "compatibility_description": "Banned - Not acceptable for diet/lifestyle.",
+                        "is_from_allergen": 1
+                    },
+                    "595-0": {
+                        "lifestyle_id": 3,
+                        "lifestyle_name": "Gluten Free",
+                        "id": 595,
+                        "name": "Wheat",
+                        "description": "Wheat includes gluten. Check the ingredients if gluten-free is not on the label.",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "compatibility_description": "Banned - Not acceptable for diet/lifestyle."
+                    },
+                    "130-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 130,
+                        "name": "Riboflavin",
+                        "description": "May contain milk.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "163-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 163,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "584-0": {
+                        "lifestyle_id": 2,
+                        "lifestyle_name": "Vegetarian",
+                        "id": 584,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "806-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 806,
+                        "name": "Niacin",
+                        "description": "Used as a cholesterol treatment. In rare cases it can be derived from animal sources.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "823-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 823,
+                        "name": "Sugar",
+                        "description": "A sweet material that consists of sucrose. Some sugars are processed through boneblack.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    }
+                },
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegan diets."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegetarian diets."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "This product doesn't appear to be compatible with Gluten Free diets."
+                    }
+                },
+                "mineral_tags": {
+                    "iron": "Iron"
+                },
+                "nutrition_label": {
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 67.86,
+                        "per_serving": 19
+                    },
+                    "cholesterol": {
+                        "name": "Cholesterol",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 1941,
+                        "per_serving": 543
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 25,
+                        "per_serving": 7
+                    },
+                    "fiber": {
+                        "name": "Fiber",
+                        "measurement": "g",
+                        "per_100g": 3.6,
+                        "per_serving": 1.01
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 3.57,
+                        "per_serving": 1
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0.81534,
+                        "per_serving": 0.228
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 7.14,
+                        "per_serving": 2
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 0.321,
+                        "per_serving": 0.0899
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 60.71,
+                        "per_serving": 17
+                    },
+                    "trans-fat": {
+                        "name": "Trans Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    }
+                },
+                "vitamin_tags": {
+                    "folic-acid": "Folic Acid",
+                    "niacin": "Niacin",
+                    "riboflavin": "Riboflavin",
+                    "thiamin": "Thiamin"
+                },
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "traces_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=14541"
+        },
+        "17109341637": {
+            "product_id": 14544,
+            "name": "Chocolate Covered Oreos",
+            "manufacturer": "Sweet Shop Usa",
+            "upc": "0017109341637",
+            "details": {
+                "name": "Chocolate Covered Oreos",
+                "barcode": "0017109341637",
+                "upc": "0017109341637",
+                "brand": "Sweet Shop Usa",
+                "ingredients": "Oreo [sugar, enriched flour (wheat flour, niacin, reduced iron, thiamine mononitrate [vitamin b1] riboflavin [vitamin b 2], folic acid), high oleic canola oil and/or palm oil and/or canola oil and/or soybean oil, cocoa(processed with",
+                "package_size": "100g",
+                "serving_size": "28 g (1 PIECE)",
+                "brands": {
+                    "sweet-shop-usa": "Sweet Shop Usa"
+                },
+                "countries": {
+                    "united-states": "United States"
+                },
+                "has_english_ingredients": 1,
+                "country_details": {
+                    "english_speaking": 1,
+                    "non_english_speaking": 0
+                },
+                "images": {
+                    "front": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "ingredient_tags": {
+                    "cocoa": "Cocoa",
+                    "enriched-flour": "Enriched Flour",
+                    "folic-acid": "Folic Acid",
+                    "high-oleic-canola-oil-and": "High Oleic Canola Oil And",
+                    "niacin": "Niacin",
+                    "or-canola-oil-and": "Or Canola Oil And",
+                    "or-palm-oil-and": "Or Palm Oil And",
+                    "or-soybean-oil": "Or Soybean Oil",
+                    "oreo": "Oreo",
+                    "processed-with": "Processed With",
+                    "reduced-iron": "Reduced Iron",
+                    "sugar": "Sugar",
+                    "thiamine-mononitrate": "Thiamine Mononitrate",
+                    "vitamin-b-2": "Vitamin B 2",
+                    "vitamin-b1-riboflavin": "Vitamin B1 Riboflavin",
+                    "wheat-flour": "Wheat Flour"
+                },
+                "keywords": {
+                    "chocolate": "Chocolate",
+                    "covered": "Covered",
+                    "oreo": "Oreo",
+                    "shop": "Shop",
+                    "sweet": "Sweet",
+                    "usa": "Usa"
+                },
+                "lifestyle_flagged_ingredients": {
+                    "595-0": {
+                        "lifestyle_id": 3,
+                        "lifestyle_name": "Gluten Free",
+                        "id": 595,
+                        "name": "Wheat",
+                        "description": "Wheat includes gluten. Check the ingredients if gluten-free is not on the label.",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "compatibility_description": "Banned - Not acceptable for diet/lifestyle."
+                    },
+                    "130-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 130,
+                        "name": "Riboflavin",
+                        "description": "May contain milk.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "163-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 163,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "584-0": {
+                        "lifestyle_id": 2,
+                        "lifestyle_name": "Vegetarian",
+                        "id": 584,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    }
+                },
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegan diets."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegetarian diets."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "This product doesn't appear to be compatible with Gluten Free diets."
+                    }
+                },
+                "nutrition_label": {
+                    "calcium": {
+                        "name": "Calcium",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 71.43,
+                        "per_serving": 20
+                    },
+                    "cholesterol": {
+                        "name": "Cholesterol",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 2092,
+                        "per_serving": 586
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 25,
+                        "per_serving": 7
+                    },
+                    "fiber": {
+                        "name": "Fiber",
+                        "measurement": "g",
+                        "per_100g": 3.6,
+                        "per_serving": 1.01
+                    },
+                    "iron": {
+                        "name": "Iron",
+                        "measurement": "mg",
+                        "per_100g": 6.43,
+                        "per_serving": 1.8
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0.58928,
+                        "per_serving": 0.165
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 12.5,
+                        "per_serving": 3.5
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 0.232,
+                        "per_serving": 0.065
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 53.57,
+                        "per_serving": 15
+                    },
+                    "trans-fat": {
+                        "name": "Trans Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "vitamin-a": {
+                        "name": "Vitamin A",
+                        "measurement": "IU",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "vitamin-c": {
+                        "name": "Vitamin C",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    }
+                },
+                "vitamin_tags": {
+                    "folic-acid": "Folic Acid",
+                    "niacin": "Niacin",
+                    "riboflavin": "Riboflavin"
+                },
+                "allergens": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "mineral_tags": [],
+                "traces_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=14544"
+        },
+        "17109341910": {
+            "product_id": 14546,
+            "name": "Sweet Shops, Chocolate Covered Oreos",
+            "manufacturer": "Sweet Shop Candies  Inc.",
+            "upc": "0017109341910",
+            "details": {
+                "name": "Sweet Shops, Chocolate Covered Oreos",
+                "barcode": "0017109341910",
+                "upc": "0017109341910",
+                "brand": "Sweet Shop Candies  Inc.",
+                "ingredients": "Oreo (sugar, enriched wheat flour, niacin, reduced iron, thiamine mononitrate, [vitamin b1], riboflavin [vitamin b2], folic acid), high oleic canola oil and/or palm oil and/or canola oil and/or soybean oil, cocoa(processed with alkali), high fructose corn",
+                "package_size": "100g",
+                "serving_size": "28 g (1 PIECES)",
+                "brands": {
+                    "sweet-shop-candies-inc": "Sweet Shop Candies Inc"
+                },
+                "countries": {
+                    "united-states": "United States"
+                },
+                "has_english_ingredients": 1,
+                "country_details": {
+                    "english_speaking": 1,
+                    "non_english_speaking": 0
+                },
+                "images": {
+                    "front": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "nutrition": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    },
+                    "ingredients": {
+                        "small": "",
+                        "thumb": "",
+                        "display": ""
+                    }
+                },
+                "ingredient_tags": {
+                    "cocoa": "Cocoa",
+                    "enriched-wheat-flour": "Enriched Wheat Flour",
+                    "folic-acid": "Folic Acid",
+                    "high-fructose-corn": "High Fructose Corn",
+                    "high-oleic-canola-oil-and": "High Oleic Canola Oil And",
+                    "niacin": "Niacin",
+                    "or-canola-oil-and": "Or Canola Oil And",
+                    "or-palm-oil-and": "Or Palm Oil And",
+                    "or-soybean-oil": "Or Soybean Oil",
+                    "oreo": "Oreo",
+                    "processed-with-alkali": "Processed With Alkali",
+                    "reduced-iron": "Reduced Iron",
+                    "riboflavin": "Riboflavin",
+                    "sugar": "Sugar",
+                    "thiamine-mononitrate": "Thiamine Mononitrate",
+                    "vitamin-b1": "Vitamin B1",
+                    "vitamin-b2": "Vitamin B2"
+                },
+                "keywords": {
+                    "candie": "Candie",
+                    "chocolate": "Chocolate",
+                    "covered": "Covered",
+                    "inc": "Inc",
+                    "oreo": "Oreo",
+                    "shop": "Shop",
+                    "sweet": "Sweet"
+                },
+                "lifestyle_flagged_ingredients": {
+                    "595-0": {
+                        "lifestyle_id": 3,
+                        "lifestyle_name": "Gluten Free",
+                        "id": 595,
+                        "name": "Wheat",
+                        "description": "Wheat includes gluten. Check the ingredients if gluten-free is not on the label.",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "compatibility_description": "Banned - Not acceptable for diet/lifestyle."
+                    },
+                    "130-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 130,
+                        "name": "Riboflavin",
+                        "description": "May contain milk.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "163-0": {
+                        "lifestyle_id": 1,
+                        "lifestyle_name": "Vegan",
+                        "id": 163,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    },
+                    "584-0": {
+                        "lifestyle_id": 2,
+                        "lifestyle_name": "Vegetarian",
+                        "id": 584,
+                        "name": "Vitamin",
+                        "description": "Likely animal based but may be plant based. Check the label to verify the source of the ingredient.",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "compatibility_description": "Not necessarily banned. Consider the source of each ingredient."
+                    }
+                },
+                "lifestyle": {
+                    "vegan": {
+                        "id": 1,
+                        "name": "Vegan",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegan diets."
+                    },
+                    "vegetarian": {
+                        "id": 2,
+                        "name": "Vegetarian",
+                        "is_compatible": "Maybe",
+                        "compatibility": 1,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "We can't fully determine if this product is compatible with Vegetarian diets."
+                    },
+                    "gluten-free": {
+                        "id": 3,
+                        "name": "Gluten Free",
+                        "is_compatible": "No",
+                        "compatibility": 0,
+                        "grade_confidence": true,
+                        "grade_confidence_desc": "This product doesn't appear to be compatible with Gluten Free diets."
+                    }
+                },
+                "nutrition_label": {
+                    "calcium": {
+                        "name": "Calcium",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "carbohydrates": {
+                        "name": "Carbohydrates",
+                        "measurement": "g",
+                        "per_100g": 71.43,
+                        "per_serving": 20
+                    },
+                    "cholesterol": {
+                        "name": "Cholesterol",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "calories": {
+                        "name": "Calories",
+                        "measurement": "kj",
+                        "per_100g": 2092,
+                        "per_serving": 586
+                    },
+                    "fat": {
+                        "name": "Fat",
+                        "measurement": "g",
+                        "per_100g": 25,
+                        "per_serving": 7
+                    },
+                    "fiber": {
+                        "name": "Fiber",
+                        "measurement": "g",
+                        "per_100g": 3.6,
+                        "per_serving": 1.01
+                    },
+                    "iron": {
+                        "name": "Iron",
+                        "measurement": "mg",
+                        "per_100g": 6.43,
+                        "per_serving": 1.8
+                    },
+                    "proteins": {
+                        "name": "Proteins",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "salt": {
+                        "name": "Salt",
+                        "measurement": "g",
+                        "per_100g": 0.58928,
+                        "per_serving": 0.165
+                    },
+                    "saturated-fat": {
+                        "name": "Saturated Fat",
+                        "measurement": "g",
+                        "per_100g": 12.5,
+                        "per_serving": 3.5
+                    },
+                    "sodium": {
+                        "name": "Sodium",
+                        "measurement": "g",
+                        "per_100g": 0.232,
+                        "per_serving": 0.065
+                    },
+                    "sugars": {
+                        "name": "Sugars",
+                        "measurement": "g",
+                        "per_100g": 53.57,
+                        "per_serving": 15
+                    },
+                    "trans-fat": {
+                        "name": "Trans Fat",
+                        "measurement": "g",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "vitamin-a": {
+                        "name": "Vitamin A",
+                        "measurement": "IU",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    },
+                    "vitamin-c": {
+                        "name": "Vitamin C",
+                        "measurement": "mg",
+                        "per_100g": 0,
+                        "per_serving": 0
+                    }
+                },
+                "vitamin_tags": {
+                    "folic-acid": "Folic Acid",
+                    "niacin": "Niacin",
+                    "riboflavin": "Riboflavin",
+                    "thiamin": "Thiamin"
+                },
+                "allergens": [],
+                "categories": [],
+                "ingredients_from_palm_oil": [],
+                "mineral_tags": [],
+                "traces_tags": []
+            },
+            "api_endpoint": "https://chompthis.com/api/product.php?token=1mMqa5WRM1H10cSo8&id=14546"
+        }
+    },
+    "chomp": {
+        "request": {
+            "product_name": "oreos"
+        },
+        "response": {
+            "products_found": 6
+        },
+        "pagination": {
+            "current_page_no": 1,
+            "current_page_endpoint": "https://chompthis.com/api/product-search.php?token=1mMqa5WRM1H10cSo8&name=oreos&page=1",
+            "next_page_no": 2,
+            "next_page_endpoint": "https://chompthis.com/api/product-search.php?token=1mMqa5WRM1H10cSo8&name=oreos&page=2"
+        },
+        "subscription": {
+            "token": "1mMqa5WRM1H10cSo8",
+            "plan": "Economy",
+            "quota": {
+                "total": 1500,
+                "used": 139,
+                "remaining": 1361
+            }
+        }
+    }
+}

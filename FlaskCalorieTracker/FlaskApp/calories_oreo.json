@@ -1,0 +1,5 @@
+{
+    "chomp": {
+        "message": "Product names must be at least 5 characters in length. The name you entered does not meet that requirement."
+    }
+}
